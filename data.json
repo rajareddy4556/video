@@ -10,8 +10,8 @@
     "videoUrl": "https://example.com/video2.mp4"
   },
   {
-    "imageUrl": "https://example.com/image3.jpg",
-    "title": "Future of Artificial Intelligence",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Full_Star_White.svg/1024px-Full_Star_White.svg.png" ,
+    "title": "Star Sports Live",
     "videoUrl": "https://example.com/video3.mp4"
   }
 ]
