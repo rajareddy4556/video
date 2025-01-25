@@ -1,12 +1,12 @@
 [
   {
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/35/Hungama_TV.png" ,
-    "title": "Amazing Space Journey",
+    "title": "Hungama Live",
     "videoUrl": "https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/HLS/index.m3u8" 
   },
   {
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_HD_logo.svg/1024px-Cartoon_Network_HD_logo.svg.png" ,
-    "title": "The Wonders of Technology",
+    "title": "CN Live HD",
     "videoUrl": "https://example.com/video2.mp4"
   },
   {
