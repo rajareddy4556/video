@@ -2,5 +2,11 @@
   { "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_HD_logo.svg/1024px-Cartoon_Network_HD_logo.svg.png" , "title": "CN Live HD", "videoUrl": "https://example.com/video2.mp4" }, 
   { "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a3/9XJhakaasLogo.jpg" , "title": "9XJhakaas", "videoUrl": "https://amg01281-9xmediapvtltd-9xjhakaas-samsungin-ci2cs.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjhakaas-samsungin/playlist.m3u8" },
 	
-{ "imageUrl": "https://upload.wikimedia.org/wikipedia/en/2/2c/Aaj_Tak_Logo.png" , "title": "Aaj_Tak", "videoUrl": "https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_404p/chunks.m3u8" }
+{ "imageUrl": "https://upload.wikimedia.org/wikipedia/en/2/2c/Aaj_Tak_Logo.png" , "title": "Aaj_Tak", "videoUrl": "https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_404p/chunks.m3u8" },
+{
+  "imageUrl": "https://i.imgur.com/XjFwhDd.png",
+  "title": "Red Bull TV",
+  "videoUrl": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8"
+}
+	
 ]
