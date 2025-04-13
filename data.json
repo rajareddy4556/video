@@ -14,4 +14,62 @@
     "title": "9XJhakaas",
     "videoUrl": "https://amg01281-9xmediapvtltd-9xjhakaas-samsungin-ci2cs.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjhakaas-samsungin/playlist.m3u8"
   }
+
+  {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/3/3b/9xm_logo.png",
+    "title": "9XM (576p)",
+    "videoUrl": "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/23886666-8fc5-470f-aab1-bd637ed607b1/3.m3u8"
+  },
+  {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2a/A1_TV_Logo.png",
+    "title": "A1 TV Rajasthan (720p)",
+    "videoUrl": "https://5b48d7e1b4bce.streamlock.net/myapp/a1live/playlist.m3u8"
+  },
+  {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/f/f9/Aaj_tak_logo.png",
+    "title": "Aaj Tak",
+    "videoUrl": "https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8"
+  },
+  {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/f/f9/Aaj_tak_logo.png",
+    "title": "Aaj Tak (404p)",
+    "videoUrl": "https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_404p/chunks.m3u8"
+  },
+  {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/f/f9/Aaj_tak_logo.png",
+    "title": "Aaj Tak (360p) [Geo-blocked]",
+    "videoUrl": "https://lmil.live-s.cdn.bitgravity.com/cdn-live/_definst_/lmil/live/aajtak_app.smil/playlist.m3u8"
+  },
+  {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/0/0b/Aastha_TV_Logo.png",
+    "title": "Aastha (480p)",
+    "videoUrl": "https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/chunklist_b1328000.m3u8"
+  },
+  {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/0/0b/Aastha_TV_Logo.png",
+    "title": "Aastha Bhajan (480p)",
+    "videoUrl": "https://aasthaott.akamaized.net/110923/smil:bhajan.smil/chunklist_b264000.m3u8"
+  },
+  {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c5/AathavanTV.png",
+    "title": "Aathavan TV (720p) [Not 24/7]",
+    "videoUrl": "http://45.77.66.224:1935/athavantv/live/playlist.m3u8"
+  },
+  {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f1/ABP_Ganga_Logo.jpg",
+    "title": "ABP Ganga (1080p)",
+    "videoUrl": "https://abplivetv.akamaized.net/hls/live/2043013/ganga/master.m3u8"
+  },
+  {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/3/3b/ABP_Majha.png",
+    "title": "ABP Majha (720p)",
+    "videoUrl": "https://abplivetv.akamaized.net/hls/live/2043011/manjha/master.m3u8"
+  },
+  {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/2/2c/ABP_News_Logo.png",
+    "title": "ABP News (720p)",
+    "videoUrl": "https://abplivetv.akamaized.net/hls/live/2043010/hindi/master.m3u8"
+  }
+
+  
 ]
