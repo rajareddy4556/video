@@ -1,12 +1,32 @@
-[ { "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/35/Hungama_TV.png" , "title": "Hungama Live", "videoUrl": "https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/HLS/index.m3u8" }, 
-  { "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_HD_logo.svg/1024px-Cartoon_Network_HD_logo.svg.png" , "title": "CN Live HD", "videoUrl": "https://example.com/video2.mp4" }, 
-  { "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a3/9XJhakaasLogo.jpg" , "title": "9XJhakaas", "videoUrl": "https://amg01281-9xmediapvtltd-9xjhakaas-samsungin-ci2cs.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjhakaas-samsungin/playlist.m3u8" },
-	
-{ "imageUrl": "https://upload.wikimedia.org/wikipedia/en/2/2c/Aaj_Tak_Logo.png" , "title": "Aaj_Tak", "videoUrl": "https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_404p/chunks.m3u8" },
-{
-  "imageUrl": "https://i.imgur.com/XjFwhDd.png",
-  "title": "Red Bull TV",
-  "videoUrl": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8"
-}
-	
+[
+  {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Red_Bull_TV_Logo.png",
+    "title": "Red Bull TV",
+    "videoUrl": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8"
+  },
+  {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e3/FashionTV_logo.png",
+    "title": "Fashion TV",
+    "videoUrl": "http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/playlist.m3u8"
+  },
+  {
+    "imageUrl": "https://clubbingtv.com/wp-content/uploads/2020/01/cropped-Logo-blanc-avec-texte-300x172.png",
+    "title": "Clubbing TV",
+    "videoUrl": "https://play.clubbingtv.com/live/ClubbingTV/ClubbingTV.m3u8"
+  },
+  {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/8f/RMC_D%C3%A9couverte_2015.svg/512px-RMC_D%C3%A9couverte_2015.svg.png",
+    "title": "RMC Découverte",
+    "videoUrl": "https://live.creacast.com/rmcdecouverte/smil:rmd.smil/playlist.m3u8"
+  },
+  {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Logo_CINE.AR.png",
+    "title": "Cine AR",
+    "videoUrl": "https://5f4fc4d2e58c9.streamlock.net/live-cont.ar/playlist.m3u8"
+  },
+  {
+    "imageUrl": "https://i.ibb.co/pQ7Z5hV/moviehub.png",  
+    "title": "Movie Hub TV",
+    "videoUrl": "http://live.mjunoon.tv:1935/live/mp4:moviechannel/playlist.m3u8"
+  }
 ]
