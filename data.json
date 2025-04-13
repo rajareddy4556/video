@@ -5,28 +5,28 @@
     "videoUrl": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8"
   },
   {
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e5/NASA_logo.svg",
-    "title": "NASA TV Media",
-    "videoUrl": "https://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8"
-  },
-  {
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/87/ESPN_logo.svg",
     "title": "ESPN",
     "videoUrl": "https://espn-secure-lh.akamaihd.net/i/ESPN_1@107616/master.m3u8"
   },
   {
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Fashion_TV_Logo.svg/512px-Fashion_TV_Logo.svg.png",
-    "title": "Fashion TV",
-    "videoUrl": "http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/playlist.m3u8"
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Discovery_Channel_logo.png",
+    "title": "Discovery Channel",
+    "videoUrl": "https://d2o5w2gmdsbykl.cloudfront.net/hls/dc/master.m3u8"
   },
   {
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/45/MTV_logo.svg",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/17/MTV_logo.svg",
     "title": "MTV",
     "videoUrl": "https://mtv-live-rtmp.cdnmdstrm.com/live/mtv-hls-1/playlist.m3u8"
   },
   {
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/18/Discovery_Channel_logo.svg",
-    "title": "Discovery Channel",
-    "videoUrl": "https://d2o5w2gmdsbykl.cloudfront.net/hls/dc/master.m3u8"
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Fashion_TV_logo.png",
+    "title": "Fashion TV",
+    "videoUrl": "http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/playlist.m3u8"
+  },
+  {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4a/CNBC_logo_2013.svg",
+    "title": "CNBC",
+    "videoUrl": "https://nbcuni-cnbc-syndication.cnbc.com/hls/cnbc.m3u8"
   }
 ]
