@@ -5,28 +5,23 @@
     "videoUrl": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8"
   },
   {
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e3/FashionTV_logo.png",
-    "title": "Fashion TV",
-    "videoUrl": "http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/playlist.m3u8"
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e5/NASA_logo.svg",
+    "title": "NASA TV Media",
+    "videoUrl": "https://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8"
   },
   {
-    "imageUrl": "https://clubbingtv.com/wp-content/uploads/2020/01/cropped-Logo-blanc-avec-texte-300x172.png",
-    "title": "Clubbing TV",
-    "videoUrl": "https://play.clubbingtv.com/live/ClubbingTV/ClubbingTV.m3u8"
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/ESTV_logo.svg/512px-ESTV_logo.svg.png",
+    "title": "ESTV (Esports)",
+    "videoUrl": "https://linear-359.frequency.stream/dist/localnow/359/hls/master/playlist.m3u8"
   },
   {
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/8f/RMC_D%C3%A9couverte_2015.svg/512px-RMC_D%C3%A9couverte_2015.svg.png",
-    "title": "RMC Découverte",
-    "videoUrl": "https://live.creacast.com/rmcdecouverte/smil:rmd.smil/playlist.m3u8"
+    "imageUrl": "https://i.imgur.com/TbLkBfu.png",
+    "title": "Outside TV+",
+    "videoUrl": "https://outdooramerica-rakuten.amagi.tv/hls/amagi_hls_data_outdooramerica-rakuten/CDN/master.m3u8"
   },
   {
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Logo_CINE.AR.png",
-    "title": "Cine AR",
-    "videoUrl": "https://5f4fc4d2e58c9.streamlock.net/live-cont.ar/playlist.m3u8"
-  },
-  {
-    "imageUrl": "https://i.ibb.co/pQ7Z5hV/moviehub.png",  
-    "title": "Movie Hub TV",
-    "videoUrl": "http://live.mjunoon.tv:1935/live/mp4:moviechannel/playlist.m3u8"
+    "imageUrl": "https://i.imgur.com/TcZz1nH.png",
+    "title": "PowerNation TV",
+    "videoUrl": "https://powernation-reelz.amagi.tv/hls/amagi_hls_data_powernation-reelz/CDN/master.m3u8"
   }
 ]
