@@ -1,26 +1,16 @@
 [
   {
-    "imageUrl": "https://i.imgur.com/Tm3K2Zl.png",
+    "imageUrl": "https://i.imgur.com/q1NnKqJ.png",
     "title": "Red Bull TV",
     "videoUrl": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8"
   },
   {
-    "imageUrl": "https://i.imgur.com/bwlSCgP.png",
+    "imageUrl": "https://i.imgur.com/1FvwJPZ.png",
     "title": "Fashion TV",
     "videoUrl": "https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8"
   },
   {
-    "imageUrl": "https://i.imgur.com/fyLu46K.png",
-    "title": "RTP Internacional",
-    "videoUrl": "https://streaming-live.rtp.pt/livertp/rtpi.smil/playlist.m3u8"
-  },
-  {
-    "imageUrl": "https://i.imgur.com/YuO6GOB.png",
-    "title": "NASA TV",
-    "videoUrl": "https://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8"
-  },
-  {
-    "imageUrl": "https://i.imgur.com/S5hIX3e.png",
+    "imageUrl": "https://i.imgur.com/d8RQbIg.png",
     "title": "Arirang TV",
     "videoUrl": "https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8"
   }
