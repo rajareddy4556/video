@@ -10,18 +10,23 @@
     "videoUrl": "https://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8"
   },
   {
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/ESTV_logo.svg/512px-ESTV_logo.svg.png",
-    "title": "ESTV (Esports)",
-    "videoUrl": "https://linear-359.frequency.stream/dist/localnow/359/hls/master/playlist.m3u8"
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/87/ESPN_logo.svg",
+    "title": "ESPN",
+    "videoUrl": "https://espn-secure-lh.akamaihd.net/i/ESPN_1@107616/master.m3u8"
   },
   {
-    "imageUrl": "https://i.imgur.com/TbLkBfu.png",
-    "title": "Outside TV+",
-    "videoUrl": "https://outdooramerica-rakuten.amagi.tv/hls/amagi_hls_data_outdooramerica-rakuten/CDN/master.m3u8"
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Fashion_TV_Logo.svg/512px-Fashion_TV_Logo.svg.png",
+    "title": "Fashion TV",
+    "videoUrl": "http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/playlist.m3u8"
   },
   {
-    "imageUrl": "https://i.imgur.com/TcZz1nH.png",
-    "title": "PowerNation TV",
-    "videoUrl": "https://powernation-reelz.amagi.tv/hls/amagi_hls_data_powernation-reelz/CDN/master.m3u8"
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/45/MTV_logo.svg",
+    "title": "MTV",
+    "videoUrl": "https://mtv-live-rtmp.cdnmdstrm.com/live/mtv-hls-1/playlist.m3u8"
+  },
+  {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/18/Discovery_Channel_logo.svg",
+    "title": "Discovery Channel",
+    "videoUrl": "https://d2o5w2gmdsbykl.cloudfront.net/hls/dc/master.m3u8"
   }
 ]
