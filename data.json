@@ -33,6 +33,11 @@
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/40/Tv9_Telugu.gif",
     "title": "TV 9",
     "videoUrl": "https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9telcmjhcs/liveabr/playlist.m3u8"
+  },
+  {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Box%2C_Inc._logo.svg/320px-Box%2C_Inc._logo.svg.png",
+    "title": "Show Box",
+    "videoUrl": "https://epiconvh.akamaized.net/live/showbox/master.m3u8"
   }
   
   
