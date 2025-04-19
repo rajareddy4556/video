@@ -28,43 +28,6 @@
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bein_Sports_Logo.svg/330px-Bein_Sports_Logo.svg.png",
     "title": "Beian Sports Xtra",
     "videoUrl": "https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8"
-  },
-
-  {
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Pluto_TV_logo_2020.svg",
-    "title": "Pluto TV Action",
-    "videoUrl": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e0e4955b206b0000921aa23/master.m3u8"
-  },
-  {
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e5/NASA_logo.svg",
-    "title": "NASA TV",
-    "videoUrl": "https://www.nasa.gov/media/nasatv/NTV-Public-IPS.m3u8"
-  },
-  {
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5f/DW_(TV_channel)_logo_2012.svg",
-    "title": "DW News",
-    "videoUrl": "https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124555/index_1_av-p.m3u8"
-  },
-  {
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/04/France_24_logo_2021.svg",
-    "title": "France 24 English",
-    "videoUrl": "https://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8"
-  },
-  {
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f8/NHK_World.svg",
-    "title": "NHK World Japan",
-    "videoUrl": "https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/playlist.m3u8"
-  },
-  {
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/e/ef/Red_Bull_TV_Logo_2016.png",
-    "title": "Red Bull TV",
-    "videoUrl": "https://rbmn-live.akamaized.net/hls/live/590964/Live_1/index.m3u8"
-  },
-  {
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/54/Fashion_TV_logo.png",
-    "title": "Fashion TV",
-    "videoUrl": "http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnight_secrets_adaptive.smil/playlist.m3u8"
   }
-
   
 ]
