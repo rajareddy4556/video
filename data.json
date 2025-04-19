@@ -28,6 +28,12 @@
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bein_Sports_Logo.svg/330px-Bein_Sports_Logo.svg.png",
     "title": "Beian Sports Xtra",
     "videoUrl": "https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8"
+  },
+  {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/40/Tv9_Telugu.gif",
+    "title": "TV 9",
+    "videoUrl": "https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9telcmjhcs/liveabr/playlist.m3u8"
   }
+  
   
 ]
